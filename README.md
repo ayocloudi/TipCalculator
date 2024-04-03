@@ -13,8 +13,6 @@ It rounds the final amount to two decimal places.
 Finally, it prints out the amount each person should pay.
 The code is designed to handle user input for the bill amount, tip percentage, and number of people. It calculates the total bill including the tip and then divides it by the number of people to determine the amount each person needs to pay.
 
-You can add this code to your GitHub repository by creating a new file, copying and pasting the code into that file, and then committing the changes to your GitHub repository. Make sure to include a meaningful commit message to describe the changes you've made.
-
 
 
 
