@@ -16,4 +16,5 @@ The code is designed to handle user input for the bill amount, tip percentage, a
 You can add this code to your GitHub repository by creating a new file, copying and pasting the code into that file, and then committing the changes to your GitHub repository. Make sure to include a meaningful commit message to describe the changes you've made.
 
 
-https://play.google.com/store/apps/details?id=com.sumit.tipcalculator&hl=en_GB&gl=US
+![image](https://github.com/ayocloudi/TipCalculator/assets/126922387/d4b504bf-1d7a-4719-9a65-1b35c035450a)
+
